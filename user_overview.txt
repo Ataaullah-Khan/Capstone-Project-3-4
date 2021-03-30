@@ -1,0 +1,22 @@
+Number of users		:	4 
+Number of Tasks		:	6 
+
+Number of tasks assigned to each user:
+admin : 3 tasks 
+Ak : 3 tasks 
+
+Percentage of tasks assigned per user:
+admin : 50.0% 
+Ak : 50.0% 
+
+Percentage of assigned tasks completed per user:
+admin : 33.33% 
+Ak : 0.0% 
+
+Percentage of assigned tasks to complete per user:
+admin : 66.67% 
+Ak : 100.0% 
+
+Percentage of assigned tasks that are incomplete and overdue per user:
+admin : 33.33% 
+Ak : 33.33% 
